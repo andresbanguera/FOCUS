@@ -1,12 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>  
+<?xml version='1.0' encoding='utf-8'?>
 <widget id="com.autentia.ionic.pushnotifications" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-   <name>FOCUS</name>  
-   <description>  
-     FOCUS Intranet SIRAD&TEZERA
-   </description>  
-   <author href="http://focus.sirad.com.co" email="sistemas@sirad.com.co">  
-     FOCUS  
-   </author>  
-   <icon src="logo.png" />  
- </widget>  
-
+    <name>FOCUS</name>
+    <description>
+        FOCUS::sirad&tezera
+    </description>
+    <author email="sistemas@tezera.org" href="http://focus.sirad.com.co">
+        Andres Banguera
+    </author>
+    <icon src="logo.png" />
+    <content src="index.html" />
+    <access origin="*" />
+        
+</widget>
